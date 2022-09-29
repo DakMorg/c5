@@ -19,7 +19,8 @@ there is a "clear" button provided towards the top to do just that.
 
 ## Images
 
-schedulersnip.PNG <img width="1920" alt="programming quiz snip" src="https://user-images.githubusercontent.com/108765820/192909630-b226fb67-e713-48e2-8b14-20f58bf97abd.PNG">
+schedulersnip.PNG <img width="1904" alt="schedulersnip" src="https://user-images.githubusercontent.com/108765820/192909711-1e1bd1c5-6e70-4354-b29b-0b7050b1fcc2.PNG">
+
 
 
 ## Questions
